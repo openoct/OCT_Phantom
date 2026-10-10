@@ -73,7 +73,7 @@ This work is supported by NIBIB R21EB03393 for the National Medical Phantom Libr
 
 If you use this protocol or these files, please cite:
 
-> OpenOCT. (2026). *TiO2 OCT Phantom Protocol* (Version 1.0) [Protocol and fabrication files]. GitHub. https://github.com/openoct/OCT_Phantom
+> OpenOCT. (2026). *TiO2 OCT Phantom Protocol* (Version 1.0). GitHub. https://github.com/openoct/OCT_Phantom
 
 BibTeX:
 
